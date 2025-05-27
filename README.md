@@ -35,3 +35,18 @@
 - Displays score
 - Asks user for number of questions
 - Randomized computer results
+
+### Project 6: dogbreeds
+**Summary**: This program is dog breed finder
+**Key Features**: 
+- Finds dog breed
+- Specific searches
+- Displays images
+
+### Project 7: createtask
+**Summary**: This program is grade organizer
+**Key Features**: 
+- List with student names
+- Asks user for input
+- Creates average grade
+

@@ -50,3 +50,16 @@
 - Asks user for input
 - Creates average grade
 
+### Project 8: slotmachine
+**Summary**: This program is slot machine game
+**Key Features**: 
+- allows user to buy credit
+- 10x when hitting a jackpot
+- detects if user has enough credit
+
+### Project 9: magic8ball
+**Summary**: This program is a magic 8 ball
+**Key Features**: 
+- ask user for yes/no question
+- creates a random response
+- repeats and asks if the user would like to ask another one
